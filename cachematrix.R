@@ -1,5 +1,6 @@
 
-## The makeCacheMatrix function creates a special "matrix",
+##The makeCacheMatrix function creates a special "matrix",
+## This is program assignment two for Week 2 R Programming
 ## which is really a list containing a function to
 ## 1. set the value of the matrix
 ## 2. get the value of the matrix
